@@ -1,0 +1,12 @@
+Download WinSCP:	https://winscp.net/download/WinSCP-5.15.9-Setup.exe
+install winscp(Normal Installation)
+	File protocol:		Ftp
+	Encryption:			No Encryption
+	hostname:			files.000webhost.com
+	port Number:		21
+	Username:			snackmarketing
+	password:			qwerty@123
+	Save
+	Login
+Connecting 
+	password:			qwerty@123 (If asked)

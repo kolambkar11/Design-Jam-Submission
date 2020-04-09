@@ -1,0 +1,87 @@
+category
+	Bags
+		Tote Bags
+		Tote Bags
+		Tote Bags
+		Tote Bags
+		Pouch
+		Sling Bags
+		Sling Bags
+		Laptop Bag
+		Bag Pack
+		
+	Cushion Cover
+		Cushion Covers
+		Cushion Covers
+		Cushion Covers
+		Cushion Covers
+		Lumbar Cover 12x20
+		Pillow Covers 18x22
+	Rugs
+	
+	
+	
+	
+Home page
+	new lanuch 
+	be socila with yls
+		instagram 
+		blogs
+	testimonials
+									Navigation
+									about us
+									contactus
+									footer
+									category
+									
+									
+									
+									Categories
+	home accesories
+		
+	handy bags
+		
+	handycrafts
+		covers
+		
+		
+		
+http://maps.googleapis.com/maps/api/staticmap?autoscale=2&size=600x210&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C582+1801+W+International+Speedway+Blvd+Daytona+Beach+FL+32114&zoom=12
+
+
+ https://www.google.co.in/maps/@19.019458,72.8336309,20z
+ 
+ 
+ https://www.google.com/maps/place/Daytona+International+Speedway/@29.1848034,-81.0735692,15z/data=!4m13!1m7!3m6!1s0x88e6d935da1cced3:0xa6b3e1bc0f2fc83a!2s1801+W+International+Speedway+Blvd,+Daytona+Beach,+FL+32114,+USA!3b1!8m2!3d29.187028!4d-81.0703076!3m4!1s0x88e6d949a4cb8593:0x1387c6c0b5c8cc97!8m2!3d29.1851681!4d-81.0705292
+ 
+ 
+ 
+ 
+ 1.	Business Integration Tool 
+Bi Tool is Business Integration tool where admin will upload his fish product on site and can make changes to it like cost of the product, selling price of the product, can delete the product, can generate a bill, can calculate profit and loss and total expense, add employee, generate employee salary etc.  
+Owned by 
+Name: MANALI KAMAT (Just Fry Eat) 
+Email ID: justfryeat2016@gmail.com 
+Contact: 7666666918 
+
+
+
+
+Developed website for VCMT for submission of research papers. There is an admin panel and a user login where users will register themselves and upload their research papers and admin will approve their work, admin can ask for modification as well.  
+
+Web application for submiting research papers for users. 
+sunil.thube@vit.edu.in
+mithila.satam@vsit.edu.in 
+ketaki.ghawali@vsit.edu.in 
+
+shobha.nalavade@vsit.edu.in 
+
+
+during the period starting from MM, YY to MM, YY.
+
+
+
+New In Shop
+Our Latest Products For You
+
+x
